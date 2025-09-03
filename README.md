@@ -1,4 +1,3 @@
-Got it 👍 Here’s a **simple and clean README.md** you can put directly into your repo:
 
 ````markdown
 # E-Contact
@@ -34,6 +33,4 @@ This project is licensed under the MIT License.
 
 ---
 
-⚡ Super short, professional, and covers the basics.  
-Do you want me to also make a **nice GitHub repo description + tags** (the short line that appears at the top of the repo)?
-```
+
